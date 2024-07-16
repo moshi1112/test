@@ -1,24 +1,23 @@
-# ✨ Kreatif Software
+# ✨ Kreatif 软件
 
-**[Landing](https://kreatif-software.netlify.app/)**
 
-Kreatif es una Landing page de alto desempeño hecha con Astro y Tailwind. Está basada en el diseño original de Figma hecho por [Olga Skuja](https://www.olgaskuja.design/).
+Kreatif 是一个高性能的登录页面，由 Astro 和 Tailwind 构建。它基于 [Olga Skuja](https://www.olgaskuja.design/) 的原始 Figma 设计。
 
-## Features
+## 功能特点
 
-- Diseño limpio y simple.
-- Full Responsive.
-- Rápida y eficiente gracias a Astro.
-- Customizable con Tailwind.
-- SEO altamente optimizado.
+- 简洁清晰的设计。
+- 完全响应式。
+- 由于使用了 Astro，速度快且高效。
+- 使用 Tailwind 可定制化。
+- 高度优化的 SEO。
 
-## ⚓ Puntaje en Lighthouse
+## ⚓ Lighthouse 得分
 
 <p align="center">
 	<img width="600" alt="Lighthouse Score" src="https://raw.githubusercontent.com/vasquez-esteban/kreativ-software/master/lighthouse-score.svg"/>
 </p>
 
-## 🚀 Estructura del Proyecto
+## 🚀 项目结构
 
 ```text
 /
@@ -41,17 +40,17 @@ Kreatif es una Landing page de alto desempeño hecha con Astro y Tailwind. Está
 └── package.json
 ```
 
-## 🧞 Comandos
+## 🧞 命令
 
-Para correr la aplicación en un entorno local
+在本地环境中运行应用程序
 
-| Comando          | Acción                                       |
-| :--------------- | :------------------------------------------- |
-| `git clone repo` | Clonar Repositorio                           |
-| `cd repo`        | Entrar al directorio base                    |
-| `npm install`    | Instalar Dependencias                        |
-| `npm run dev`    | Correr el servidor local en `localhost:4321` |
+| 命令             | 操作                                       |
+| :--------------- | :----------------------------------------- |
+| `git clone repo` | 克隆仓库                                   |
+| `cd repo`        | 进入基础目录                               |
+| `npm install`    | 安装依赖                                   |
+| `npm run dev`    | 在 `localhost:4321` 上运行本地服务器       |
 
-## Más información
+## 更多信息
 
-- Licencia y Crédito en el footer de la Landing Page.
+- 登录页面页脚中的许可和版权信息。
