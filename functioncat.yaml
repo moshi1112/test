@@ -21,4 +21,5 @@ apps:
           runtime:
             type: nodejs18x
             configs:
+              a: b
      
