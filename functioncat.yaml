@@ -21,4 +21,5 @@ apps:
           root_path: dist
           runtime:
             type: nodejs18x
+            configs:
      
