@@ -1,7 +1,6 @@
 opensystem: v1.0.0
 info:
   name: kreativ software template
-  vars:
 envs:
   prod:
     branch: master
