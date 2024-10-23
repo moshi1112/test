@@ -16,6 +16,7 @@ apps:
         build:
           root_path: ./
           command: npm install; npm run build
+          output_path: dist
         provision:
           root_path: dist
           runtime:
